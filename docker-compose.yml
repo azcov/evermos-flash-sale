@@ -1,0 +1,19 @@
+version: "3.8"
+
+services: 
+  postgres:
+    image: postgres:12-alpine
+    environment:
+      POSTGRES_USER: "localhost"
+      POSTGRES_PASSWORD: "secret"
+      POSTGRES_DB: "evermos"
+  app:
+    container_name: "evermos-flash-sale"
+    image: image
+    ports:
+      - "8081:8081"
+    depends_on:
+      - postgres
+    entrypoint: ["postgres:5432"]
+    command: [ "/app/main" ]
+    restart: unless-stopped

@@ -1,0 +1,58 @@
+2021-08-15T22:41:52.780534108Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:41:52.780858151Z	[31mFATAL[0m	init/init_config.go:49	Config is required
+2021-08-15T22:41:57.968404515Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:41:57.968506738Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:41:57.968776948Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:41:57.971526705Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:42:01.569608787Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:42:01.569705676Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:42:01.569987615Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:42:01.572964995Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:42:47.983517486Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:42:47.983612421Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:42:47.983875852Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:42:47.986621227Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:46:17.850679168Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:46:17.850960527Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:46:17.851375768Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:46:17.854120914Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:47:12.001950360Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:47:12.002039375Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:47:12.002290768Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:47:12.005048339Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:48:02.222849927Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:48:02.222941892Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:48:02.223159660Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:48:02.225866711Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:48:26.549145249Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:48:26.549621771Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:48:26.549964727Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:48:26.553402672Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:48:26.588146054Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:48:26.588260848Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:48:26.588576765Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:48:26.591764681Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:50:48.055980910Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:50:48.056075323Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:50:48.056342223Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:50:48.059263667Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:51:49.730812650Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:51:49.730940910Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:51:49.731217481Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:51:49.735024728Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:51:49.842461760Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:51:49.842956781Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:51:49.843267058Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:51:49.846605588Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:51:49.873230906Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:51:49.873345040Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:51:49.873639683Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:51:49.876543074Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:53:08.388274500Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:53:08.388370842Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:53:08.388624980Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:53:08.391700179Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!
+2021-08-15T22:53:53.583672611Z	[34mINFO[0m	init/init_config.go:34	Executing init/config
+2021-08-15T22:53:53.590461308Z	[34mINFO[0m	init/init_config.go:40	Local app_config.json file is found, now assigning it with default config
+2021-08-15T22:53:53.590880932Z	[34mINFO[0m	init/init_config.go:63	Config APP_ENV: 
+2021-08-15T22:53:53.593631809Z	[34mINFO[0m	db/pg.go:46	Connected to PG DB Server: localhost at port:5432 successfully!

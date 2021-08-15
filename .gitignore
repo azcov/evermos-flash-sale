@@ -1,10 +1,12 @@
+
+### Go ###
 # Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
-
+.idea/
 # Test binary, built with `go test -c`
 *.test
 
@@ -13,3 +15,29 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+### Go Patch ###
+/vendor/
+/Godeps/
+/tmp
+/docs/
+/bin/
+/log/
+/logs/
+
+# ssh KEY
+*.pem
+
+# Configs
+config.yml
+config.json
+app_config.json
+.env
+
+### SonarQube ###
+.scannerwork/
+
+# vscode
+.vscode/*
+
+# End of https://www.toptal.com/developers/gitignore/api/go
