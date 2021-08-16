@@ -5,10 +5,11 @@ COPY . .
 
 COPY go.mod ./ 
 COPY go.sum ./
+COPY app_config.json ./
 
 RUN go mod download
 
-RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o main main.go
+RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o main .
 
 # run stage
 FROM alpine:3.13

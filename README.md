@@ -19,8 +19,7 @@ the app will check to db at the same time and will get product qty to make sure 
 ```sql
 SELECT qty 
 FROM products
-WHERE product_id = 1
-FOR UPDATE;
+WHERE product_id = 1;
 -- Laptop qty = 1
 ```
 and the response of db will same.
@@ -44,6 +43,7 @@ WHERE product_id = 1;
 
 COMMIT;
 ```
+ query FOR UPDATE is important in this case. make the selected products is locked.
 
 ---
 
